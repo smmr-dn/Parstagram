@@ -5,12 +5,34 @@
       <map>
         <entry key="..\:/Users/catuy/Android Projects/app/src/main/res/layout/activity_login.xml" value="0.14130434782608695" />
         <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.132" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/compose_selector_bg.xml" value="0.1" />
         <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/edit_text_border.xml" value="0.1" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/heart_selector_bg.xml" value="0.115" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/home_selector_bg.xml" value="0.1" />
         <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.1" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/ic_instagram_home_filled_24.xml" value="0.1" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/ic_instagram_home_outline_24.xml" value="0.1" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/ic_instagram_new_post_filled_24.xml" value="0.1" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/ic_instagram_new_post_outline_24.xml" value="0.1025" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/ic_instagram_user_filled_24.xml" value="0.1" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/ic_instagram_user_outline_24.xml" value="0.1025" />
         <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/ic_instagram_wordmark_black_logo.xml" value="0.1" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/ic_ufi_comment.xml" value="0.12" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/ic_ufi_heart.xml" value="0.12" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/ic_ufi_heart_active.xml" value="0.115" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/ic_ufi_more.xml" value="0.128" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/ic_ufi_new_direct.xml" value="0.12" />
         <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/icons8-instagram.xml" value="0.1" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/drawable/profile_selector_bg.xml" value="0.1" />
         <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/layout/fragment_compose.xml" value="0.22" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/layout/fragment_photo_detail.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/layout/fragment_posts.xml" value="0.22" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/layout/item_posts.xml" value="0.22" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/layout/profile_grid_photos.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1" />
         <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/menu/menu_main.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.132" />
         <entry key="..\:/Users/catuy/Projects/Parstagram2/app/src/main/res/xml/fileprovider.xml" value="0.17552083333333332" />
